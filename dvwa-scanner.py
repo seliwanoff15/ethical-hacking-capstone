@@ -3,7 +3,7 @@
 Ethical Hacking Capstone - Automated DVWA Security Scanner
 A comprehensive security assessment tool for DVWA (Damn Vulnerable Web Application)
 
-Author: Your Name
+Author: Selwyn Barreto
 Date: August 2025
 Purpose: Educational cybersecurity assessment and demonstration
 """
